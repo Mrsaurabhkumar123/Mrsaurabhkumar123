@@ -1,7 +1,7 @@
 <!-- 🔥 ULTRA PRO BANNER -->
 
 <p align="center">
-  <img src="https://github.com/Mrsaurabhkumar123/Mrsaurabhkumar123/blob/main/banner-pro.png?raw=true" width="100%" />
+  <img src="https://github.com/Mrsaurabhkumar123/Mrsaurabhkumar123/blob/main/banner-pro.png.png?raw=true" width="100%" />
 </p>
 
 <h1 align="center">✨ Saurabh Kumar ✨</h1>
